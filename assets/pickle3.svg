@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="100%" height="100%" rx="12" fill="#fff7ec"/>
+  <g transform="translate(40,20)">
+    <ellipse cx="100" cy="70" rx="60" ry="38" fill="#ffd27a" stroke="#e08f2f" stroke-width="4" />
+    <circle cx="85" cy="60" r="6" fill="#e08f2f" />
+    <text x="12" y="150" font-size="16" fill="#5b4638">Mango-Chili</text>
+  </g>
+</svg>
