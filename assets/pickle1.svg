@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
-  <rect width="100%" height="100%" rx="12" fill="#fff7ec"/>
-  <g transform="translate(50,20)">
-    <ellipse cx="80" cy="70" rx="70" ry="40" fill="#9ccf4b" stroke="#6aa22d" stroke-width="4" />
-    <circle cx="55" cy="60" r="6" fill="#6aa22d" />
-    <circle cx="95" cy="50" r="5" fill="#6aa22d" />
-    <text x="10" y="140" font-size="16" fill="#5b4638">Classic</text>
+<svg width="200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#6C9A2A" stroke="#4B7B1E" stroke-width="2">
+    <path d="M100,10 C150,30 170,100 130,180 C100,250 60,250 30,200 C-10,150 10,70 50,40 C70,30 100,10 100,10 Z"/>
+    <circle cx="70" cy="80" r="10" fill="#3A6A2E"/>
+    <circle cx="130" cy="100" r="12" fill="#3A6A2E"/>
+    <ellipse cx="100" cy="200" rx="10" ry="5" fill="#5B8D2F"/>
   </g>
 </svg>
